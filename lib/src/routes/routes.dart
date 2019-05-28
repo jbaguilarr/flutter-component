@@ -19,7 +19,7 @@ return <String,WidgetBuilder>{
         'animatedContainer' : (BuildContext context) => AnimatedContainerPage(),
         'inputs' : (BuildContext context) => InputPage(),         
         'slider' : (BuildContext context) => SliderPage(),         
-        'list' : (BuildContext context) => ListPage(),         
+        'list' : (BuildContext context) => ListaPage(),         
       };
 
 }
